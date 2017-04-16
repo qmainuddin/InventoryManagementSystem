@@ -1,0 +1,1 @@
+E:\learningProjects\GitProjects\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
