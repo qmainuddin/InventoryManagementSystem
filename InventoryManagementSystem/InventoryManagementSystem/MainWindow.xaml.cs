@@ -24,5 +24,85 @@ namespace InventoryManagementSystem
         {
             InitializeComponent();
         }
+
+        private void OnClick_UserHome(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_OrganizationHome(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_UserBulkOpHome(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_Entitlement(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_GroupHome(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_Role(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_Resources(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_ReconciliationHome(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_PasswordHome(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_AuthenticationHome(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_BatchProcessHome(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClick_EmailTemplate(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void emailConfig_subMenu_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnClickLocalization(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void TxtLogout_MouseEnter(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void TxtLogout_MouseLeave(object sender, MouseEventArgs e)
+        {
+
+        }
     }
 }
